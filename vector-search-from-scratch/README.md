@@ -1,5 +1,6 @@
 # Vector Search from Scratch in Python
 
+Code for my article [How to Build Vector Search From Scratch in Python](https://www.kdnuggets.com/how-to-build-vector-search-from-scratch-in-python)
 
 ## What it covers
 Building a vector search engine using NumPy only — no external search libraries. Starts from scratch: simulated embeddings with cluster structure, a normalized index class, cosine similarity via dot product, and two matplotlib visualizations (PCA embedding space + score distribution).
